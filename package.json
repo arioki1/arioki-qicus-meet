@@ -1,0 +1,36 @@
+{
+  "_from": "arioki-qiscus-meet@0.0.7",
+  "_id": "arioki-qiscus-meet@0.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-Tmlqv49fkVFUqsZTopv9ZloQdVF+NDImLTKS74rbC/76AytyZuwl4OAijX80zAiHmlddkoa0hEMfY42uYwH9Qw==",
+  "_location": "/arioki-qiscus-meet",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "arioki-qiscus-meet@0.0.7",
+    "name": "arioki-qiscus-meet",
+    "escapedName": "arioki-qiscus-meet",
+    "rawSpec": "0.0.7",
+    "saveSpec": null,
+    "fetchSpec": "0.0.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/arioki-qiscus-meet/-/arioki-qiscus-meet-0.0.7.tgz",
+  "_shasum": "b4ac310817a7da985abdb046c897a1a15d0380ad",
+  "_spec": "arioki-qiscus-meet@0.0.7",
+  "_where": "E:\\Kerja\\QiscusMeetAppSample",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "arioki-qiscus-meet",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.7"
+}
